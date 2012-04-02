@@ -1,0 +1,5 @@
+The code 'scrape.rb' extracts all phone numbers and e-mail ids from the sample files provided in the 'dev/' directory. 
+The file 'devGOLD' provides the ideal expected output. 
+The file 'out' shows the output the code displays.
+
+
